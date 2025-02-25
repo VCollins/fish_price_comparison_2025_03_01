@@ -10,3 +10,5 @@ South African grocery retailers - Pick'N'Pay, Spar, Checkers and Food Lover's Ma
 The technology used is Anaconda 3 operating in a virtual environment, using Python 3.12 and the development environment is Linux.
 No databases were illegally accessed, nor was any of the data gathered using ANY form of scraping - all of the data gathered was 
 from publicly available sources.
+
+All prices used in the data source and images generated are in rand per kilogram.
